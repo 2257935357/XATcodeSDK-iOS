@@ -14,7 +14,7 @@
 ## 安装
 
 ```ruby
-pod 'XATcodeSDK', :git => 'http://121.41.108.203/MC-iOS/xatcodesdk.git'
+pod 'XATcodeSDK'
 ```
 
 ###初始化
