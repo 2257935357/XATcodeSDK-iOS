@@ -1,0 +1,6 @@
+framework module XATcodeSDK {
+  umbrella header "XATcodeSDK.h"
+
+  export *
+  module * { export * }
+}
